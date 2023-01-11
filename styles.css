@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+}
+
+* {
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.image {
+    float: right;
+    text-align: right;
+    width: 100%;
+    overflow: hidden;
+}
+
+.myvideo {
+    height: 600px;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    color: antiquewhite;
+    text-align: center;
+    align-items: center;
+}
+
+h2 {
+    color: antiquewhite;
+    align-items: center;
+    text-align: center;
+}
+
+#footer {
+    padding-top: 20px;
+    margin: 500px;
+    margin-bottom: 50px;
+    color: white;
+    font-size: large;
+    padding-left: left;
+    width: 400px;
+    overflow: hidden;
+}
+
+.avatar {
+    width: 300px;
+    height: 300px;
+    flex-wrap: wrap;
+    border-radius: 50%;
+}
